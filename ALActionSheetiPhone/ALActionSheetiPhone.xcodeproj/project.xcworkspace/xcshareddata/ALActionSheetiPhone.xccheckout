@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C569155-B44C-485D-A811-0095F348CE69</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ALActionSheetiPhone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A3EB834-97CE-4DE2-B46F-1F02AA27F7DE</key>
+		<string>https://github.com/Arthurli/ALActionSheet.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ALActionSheetiPhone/ALActionSheetiPhone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A3EB834-97CE-4DE2-B46F-1F02AA27F7DE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Arthurli/ALActionSheet.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A3EB834-97CE-4DE2-B46F-1F02AA27F7DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A3EB834-97CE-4DE2-B46F-1F02AA27F7DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ALActionSheet</string>
+		</dict>
+	</array>
+</dict>
+</plist>
