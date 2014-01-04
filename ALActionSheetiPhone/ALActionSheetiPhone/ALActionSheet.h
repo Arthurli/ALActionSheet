@@ -18,7 +18,6 @@ typedef enum{
 }ALActionSheetButtonStyle;
 
 typedef enum{
-    ALActionSheetAnimationStyleDefault,
     ALActionSheetAnimationStyleBottom,
     ALActionSheetAnimationStyleTop,
     ALActionSheetAnimationStyleFade
@@ -38,17 +37,22 @@ typedef enum{
 
 - (void)addButtonWithTitle:(NSString *)title andType:(ALActionSheetButtonStyle)buttonStyle andCallbackBlock:(CallbackBlock)callback;
 
-- (void)addButtonWithImage:(UIImage *)image andType:(ALActionSheetButtonStyle)buttonStyle andCallbackBlock:(CallbackBlock)callback;
-
-- (void)addButtonWithTitle:(NSString *)title andImage:(UIImage *)image andType:(ALActionSheetButtonStyle)buttonStyle andCallbackBlock:(CallbackBlock)callback;
-
 - (void)insertInterval;
 
 - (void)showInView:(UIView *)view;
 
 - (void)dismiss;
 
-- (void)setActionSheetBackgroundView:(UIView *)backgroundView;
+
+
+/**
+ 之后都是一些设置
+ */
+- (void)setActionSheetTitleColor:(UIColor *)color;
+
+- (void)setActionSheetMessageColor:(UIColor *)color;
+
+- (void)setActionSheetBackgroundColor:(UIColor *)backgroundColor;
 
 - (void)setMaskButtonSwitch:(BOOL)isOpen;
 
@@ -60,5 +64,5 @@ typedef enum{
 
 - (void)setDissmissAnimationStyle:(ALActionSheetAnimationStyle)animationStyle;
 
-
+- (void)setMaskColor:(UIColor *)maskColor;
 @end

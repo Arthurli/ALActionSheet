@@ -23,6 +23,14 @@
 		0C5E8C9E1871C5230092CACB /* ALActionSheetiPhoneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C5E8C9D1871C5230092CACB /* ALActionSheetiPhoneTests.m */; };
 		0C5E8CAA1871C55E0092CACB /* ALActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C5E8CA91871C55E0092CACB /* ALActionSheet.m */; };
 		0C5E8CBF1871D1120092CACB /* ALActionSheetiPhoneController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C5E8CBE1871D1120092CACB /* ALActionSheetiPhoneController.m */; };
+		0CBC1B9F187842EA001ABD51 /* TableViewCell-bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B97187842EA001ABD51 /* TableViewCell-bottom.png */; };
+		0CBC1BA0187842EA001ABD51 /* TableViewCell-bottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B98187842EA001ABD51 /* TableViewCell-bottom@2x.png */; };
+		0CBC1BA1187842EA001ABD51 /* TableViewCell-full.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B99187842EA001ABD51 /* TableViewCell-full.png */; };
+		0CBC1BA2187842EA001ABD51 /* TableViewCell-full@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B9A187842EA001ABD51 /* TableViewCell-full@2x.png */; };
+		0CBC1BA3187842EA001ABD51 /* TableViewCell-mid.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B9B187842EA001ABD51 /* TableViewCell-mid.png */; };
+		0CBC1BA4187842EA001ABD51 /* TableViewCell-mid@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B9C187842EA001ABD51 /* TableViewCell-mid@2x.png */; };
+		0CBC1BA5187842EA001ABD51 /* TableViewCell-top.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B9D187842EA001ABD51 /* TableViewCell-top.png */; };
+		0CBC1BA6187842EA001ABD51 /* TableViewCell-top@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CBC1B9E187842EA001ABD51 /* TableViewCell-top@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +67,14 @@
 		0C5E8CA91871C55E0092CACB /* ALActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALActionSheet.m; sourceTree = "<group>"; };
 		0C5E8CBD1871D1120092CACB /* ALActionSheetiPhoneController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALActionSheetiPhoneController.h; sourceTree = "<group>"; };
 		0C5E8CBE1871D1120092CACB /* ALActionSheetiPhoneController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALActionSheetiPhoneController.m; sourceTree = "<group>"; };
+		0CBC1B97187842EA001ABD51 /* TableViewCell-bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-bottom.png"; sourceTree = "<group>"; };
+		0CBC1B98187842EA001ABD51 /* TableViewCell-bottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-bottom@2x.png"; sourceTree = "<group>"; };
+		0CBC1B99187842EA001ABD51 /* TableViewCell-full.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-full.png"; sourceTree = "<group>"; };
+		0CBC1B9A187842EA001ABD51 /* TableViewCell-full@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-full@2x.png"; sourceTree = "<group>"; };
+		0CBC1B9B187842EA001ABD51 /* TableViewCell-mid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-mid.png"; sourceTree = "<group>"; };
+		0CBC1B9C187842EA001ABD51 /* TableViewCell-mid@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-mid@2x.png"; sourceTree = "<group>"; };
+		0CBC1B9D187842EA001ABD51 /* TableViewCell-top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-top.png"; sourceTree = "<group>"; };
+		0CBC1B9E187842EA001ABD51 /* TableViewCell-top@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TableViewCell-top@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +142,14 @@
 				0C5E8C841871C5220092CACB /* Main.storyboard */,
 				0C5E8C871871C5220092CACB /* ViewController.h */,
 				0C5E8C881871C5220092CACB /* ViewController.m */,
+				0CBC1B97187842EA001ABD51 /* TableViewCell-bottom.png */,
+				0CBC1B98187842EA001ABD51 /* TableViewCell-bottom@2x.png */,
+				0CBC1B99187842EA001ABD51 /* TableViewCell-full.png */,
+				0CBC1B9A187842EA001ABD51 /* TableViewCell-full@2x.png */,
+				0CBC1B9B187842EA001ABD51 /* TableViewCell-mid.png */,
+				0CBC1B9C187842EA001ABD51 /* TableViewCell-mid@2x.png */,
+				0CBC1B9D187842EA001ABD51 /* TableViewCell-top.png */,
+				0CBC1B9E187842EA001ABD51 /* TableViewCell-top@2x.png */,
 				0C5E8C8A1871C5220092CACB /* Images.xcassets */,
 				0C5E8C791871C5220092CACB /* Supporting Files */,
 			);
@@ -247,8 +271,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C5E8C8B1871C5220092CACB /* Images.xcassets in Resources */,
+				0CBC1B9F187842EA001ABD51 /* TableViewCell-bottom.png in Resources */,
+				0CBC1BA4187842EA001ABD51 /* TableViewCell-mid@2x.png in Resources */,
 				0C5E8C7D1871C5220092CACB /* InfoPlist.strings in Resources */,
+				0CBC1BA3187842EA001ABD51 /* TableViewCell-mid.png in Resources */,
 				0C5E8C861871C5220092CACB /* Main.storyboard in Resources */,
+				0CBC1BA6187842EA001ABD51 /* TableViewCell-top@2x.png in Resources */,
+				0CBC1BA5187842EA001ABD51 /* TableViewCell-top.png in Resources */,
+				0CBC1BA2187842EA001ABD51 /* TableViewCell-full@2x.png in Resources */,
+				0CBC1BA0187842EA001ABD51 /* TableViewCell-bottom@2x.png in Resources */,
+				0CBC1BA1187842EA001ABD51 /* TableViewCell-full.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -480,6 +512,7 @@
 				0C5E8CA31871C5230092CACB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C5E8CA41871C5230092CACB /* Build configuration list for PBXNativeTarget "ALActionSheetiPhoneTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +521,7 @@
 				0C5E8CA61871C5230092CACB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
